@@ -22,3 +22,5 @@ function printPlaylist(list) {
 printPlaylist(playlist);
 
 removeFromPlaylist(playlist, "RyX");
+
+printPlaylist(playlist);
