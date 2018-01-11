@@ -14,5 +14,5 @@ function removeFromPlaylist(list, artist) {
 updatePlaylist(playlist, "RyX", "Berlin")
 
 function printPlaylist(list) {
-  
+  for 
 }
