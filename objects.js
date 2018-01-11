@@ -11,3 +11,4 @@ function removeFromPlaylist(list, artist) {
   return list;
 }
 
+updatePlaylist(playlist, "RyX", "Berlin")
