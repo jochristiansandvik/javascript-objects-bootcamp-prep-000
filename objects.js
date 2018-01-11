@@ -15,7 +15,7 @@ updatePlaylist(playlist, "RyX", "Berlin")
 
 function printPlaylist(list) {
   for(let artist in list){
-    console.log(list[artist]);
+    console.log(artist + list[artist]);
   }
 }
 
